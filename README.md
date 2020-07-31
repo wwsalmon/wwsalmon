@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Samson!
+
+### Passionate about telling stories and building things
+
+I'm a UI/UX and branding **designer**, web and app **developer**, and **entrepreneur** with an eye for the visual and interests in ML/AI and quantum computing.
+
+It's late tonight so I'll leave it at that 😅 but please feel free to browse the repos on my profile! The most updated profile of mine right now is [LinkedIn](https://www.linkedin.com/in/samsonzhangthesalmon/), with case studies on my website [samsonzhang.com](https://www.samsonzhang.com/).
+
+Also [follow me on Twitter](https://twitter.com/wwsalmon), [DEV.to](https://dev.to/wwsalmon), and [IndieHackers](https://www.indiehackers.com/)!
+
 
 <!--
 **wwsalmon/wwsalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

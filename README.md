@@ -1,6 +1,6 @@
 # Hi, I'm Samson!
 
-### Passionate about telling stories and building things
+### Passionate about building things and telling stories
 
 I'm a UI/UX and branding **designer**, web and app **developer**, and **entrepreneur** with an eye for the visual and interests in ML/AI and quantum computing.
 

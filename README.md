@@ -13,7 +13,7 @@ I've also reported on AAPI politics, labor organizing, policing and more for the
 - public policy analysis and physics major at Pomona College in LA
 - documenting campus and Inland Empire organizing at [Claremont Undercurrents](claremontundercurrents.com)
 - covering national AAPI politics at [The Yappie](https://theyappie.com/)
-- various personal projects
+- building [blurryface](https://github.com/wwsalmon/blurryface), [interview manager](https://github.com/wwsalmon/interview-manager), other journalism/organizing related software projects
 
 **🌱 looking for**
 
